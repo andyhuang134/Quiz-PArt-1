@@ -1,0 +1,20 @@
+body {
+  background-image: url("https://cdn.wallpapersafari.com/90/12/FeaRH0.jpg");
+  font-family: "Zen Kurenaido", sans-serif;
+  color: cornsilk;
+  font-size: 20px;
+}
+
+#title {
+  color: orangered;
+  font-family: "Zen Kurenaido", sans-serif;
+  font-size: 30px;
+  font-style: italic;
+  font-weight: bolder;
+}
+
+#question {
+  color: orange;
+  font-style: oblique;
+  font-weight: bold;
+}
